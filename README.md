@@ -22,7 +22,6 @@
 * MGREL
 ## Model_save
 * `model_save/`存放WVM训练好模型
-* `modelSaved/`存放VMT和HAE训练好模型
 ## Settings
 * `flow_system/settings`中，`DATABASES`设置数据库账号与密码，默认数据库为mysql
 ## Use
